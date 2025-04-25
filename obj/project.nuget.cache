@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "qNmX243QHkg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zacha\\RiderProjects\\TerrainGenerator\\TerrainGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zacha\\.nuget\\packages\\dynamicobj\\2.0.0\\dynamicobj.2.0.0.nupkg.sha512",
+    "C:\\Users\\zacha\\.nuget\\packages\\fsharp.core\\8.0.300\\fsharp.core.8.0.300.nupkg.sha512",
+    "C:\\Users\\zacha\\.nuget\\packages\\giraffe.viewengine.strongname\\2.0.0-alpha1\\giraffe.viewengine.strongname.2.0.0-alpha1.nupkg.sha512",
+    "C:\\Users\\zacha\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\zacha\\.nuget\\packages\\plotly.net\\5.0.0\\plotly.net.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
